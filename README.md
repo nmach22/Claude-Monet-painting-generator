@@ -1,2 +1,3 @@
 # Claude-Monet-painting-generator
-change gitconfig to uni
+
+[kaggle link](https://www.kaggle.com/competitions/gan-getting-started)
