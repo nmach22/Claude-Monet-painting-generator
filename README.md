@@ -2,7 +2,7 @@
 
 [kaggle link](https://www.kaggle.com/competitions/gan-getting-started)
 
-[Wandb report link](https://wandb.ai/nmach22-free-university-of-tbilisi-/Generate%20Monet%20paintings/reports/CycleGAN-for-Monet-style-Painting-Generation-A-Comparison-of-U-Net-and-ResNet-Architectures--VmlldzoxNTU5MTc0MA)
+[Wandb report link](https://api.wandb.ai/links/nmach22-free-university-of-tbilisi-/lsj6vy95)
 
 ## Model Architectures
 
